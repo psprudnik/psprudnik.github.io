@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	maxImageWidth="1280"
+	maxImageHeight="1280"
+	imageQuality="80"
+	thumbWidth="75"
+	thumbHeight="75"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	backgroundColor="CCFFFF"
+	title="Półkolonia cz. III"
+	frameWidth="1"
+	thumbColumns="3"
+
+>
+  <image imageURL="images/IMG_20140714_114509.jpg"
+	thumbURL="thumbs/IMG_20140714_114509.jpg"
+	linkURL="images/IMG_20140714_114509.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140714_120132.jpg"
+	thumbURL="thumbs/IMG_20140714_120132.jpg"
+	linkURL="images/IMG_20140714_120132.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140714_123720.jpg"
+	thumbURL="thumbs/IMG_20140714_123720.jpg"
+	linkURL="images/IMG_20140714_123720.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140715_094458.jpg"
+	thumbURL="thumbs/IMG_20140715_094458.jpg"
+	linkURL="images/IMG_20140715_094458.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140715_095605.jpg"
+	thumbURL="thumbs/IMG_20140715_095605.jpg"
+	linkURL="images/IMG_20140715_095605.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140715_101650.jpg"
+	thumbURL="thumbs/IMG_20140715_101650.jpg"
+	linkURL="images/IMG_20140715_101650.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140715_102111.jpg"
+	thumbURL="thumbs/IMG_20140715_102111.jpg"
+	linkURL="images/IMG_20140715_102111.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140715_102603.jpg"
+	thumbURL="thumbs/IMG_20140715_102603.jpg"
+	linkURL="images/IMG_20140715_102603.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140715_122414.jpg"
+	thumbURL="thumbs/IMG_20140715_122414.jpg"
+	linkURL="images/IMG_20140715_122414.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140715_132238.jpg"
+	thumbURL="thumbs/IMG_20140715_132238.jpg"
+	linkURL="images/IMG_20140715_132238.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140715_133249.jpg"
+	thumbURL="thumbs/IMG_20140715_133249.jpg"
+	linkURL="images/IMG_20140715_133249.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140715_133327.jpg"
+	thumbURL="thumbs/IMG_20140715_133327.jpg"
+	linkURL="images/IMG_20140715_133327.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140716_093216.jpg"
+	thumbURL="thumbs/IMG_20140716_093216.jpg"
+	linkURL="images/IMG_20140716_093216.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140716_104801.jpg"
+	thumbURL="thumbs/IMG_20140716_104801.jpg"
+	linkURL="images/IMG_20140716_104801.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140716_111138.jpg"
+	thumbURL="thumbs/IMG_20140716_111138.jpg"
+	linkURL="images/IMG_20140716_111138.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140717_103011.jpg"
+	thumbURL="thumbs/IMG_20140717_103011.jpg"
+	linkURL="images/IMG_20140717_103011.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140717_103142.jpg"
+	thumbURL="thumbs/IMG_20140717_103142.jpg"
+	linkURL="images/IMG_20140717_103142.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140717_112336.jpg"
+	thumbURL="thumbs/IMG_20140717_112336.jpg"
+	linkURL="images/IMG_20140717_112336.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140717_112417.jpg"
+	thumbURL="thumbs/IMG_20140717_112417.jpg"
+	linkURL="images/IMG_20140717_112417.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140717_122221.jpg"
+	thumbURL="thumbs/IMG_20140717_122221.jpg"
+	linkURL="images/IMG_20140717_122221.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140717_122246.jpg"
+	thumbURL="thumbs/IMG_20140717_122246.jpg"
+	linkURL="images/IMG_20140717_122246.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140717_122749.jpg"
+	thumbURL="thumbs/IMG_20140717_122749.jpg"
+	linkURL="images/IMG_20140717_122749.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140717_123037.jpg"
+	thumbURL="thumbs/IMG_20140717_123037.jpg"
+	linkURL="images/IMG_20140717_123037.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140717_123048.jpg"
+	thumbURL="thumbs/IMG_20140717_123048.jpg"
+	linkURL="images/IMG_20140717_123048.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140717_131246.jpg"
+	thumbURL="thumbs/IMG_20140717_131246.jpg"
+	linkURL="images/IMG_20140717_131246.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140717_131303.jpg"
+	thumbURL="thumbs/IMG_20140717_131303.jpg"
+	linkURL="images/IMG_20140717_131303.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140717_135240.jpg"
+	thumbURL="thumbs/IMG_20140717_135240.jpg"
+	linkURL="images/IMG_20140717_135240.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140718_091830.jpg"
+	thumbURL="thumbs/IMG_20140718_091830.jpg"
+	linkURL="images/IMG_20140718_091830.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140718_094056.jpg"
+	thumbURL="thumbs/IMG_20140718_094056.jpg"
+	linkURL="images/IMG_20140718_094056.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140718_094123.jpg"
+	thumbURL="thumbs/IMG_20140718_094123.jpg"
+	linkURL="images/IMG_20140718_094123.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140718_094837.jpg"
+	thumbURL="thumbs/IMG_20140718_094837.jpg"
+	linkURL="images/IMG_20140718_094837.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140718_094850.jpg"
+	thumbURL="thumbs/IMG_20140718_094850.jpg"
+	linkURL="images/IMG_20140718_094850.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140718_094910.jpg"
+	thumbURL="thumbs/IMG_20140718_094910.jpg"
+	linkURL="images/IMG_20140718_094910.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140718_094941.jpg"
+	thumbURL="thumbs/IMG_20140718_094941.jpg"
+	linkURL="images/IMG_20140718_094941.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140718_094959.jpg"
+	thumbURL="thumbs/IMG_20140718_094959.jpg"
+	linkURL="images/IMG_20140718_094959.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140718_095009.jpg"
+	thumbURL="thumbs/IMG_20140718_095009.jpg"
+	linkURL="images/IMG_20140718_095009.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140718_095144.jpg"
+	thumbURL="thumbs/IMG_20140718_095144.jpg"
+	linkURL="images/IMG_20140718_095144.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140718_095657.jpg"
+	thumbURL="thumbs/IMG_20140718_095657.jpg"
+	linkURL="images/IMG_20140718_095657.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140718_111151.jpg"
+	thumbURL="thumbs/IMG_20140718_111151.jpg"
+	linkURL="images/IMG_20140718_111151.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140721_095938.jpg"
+	thumbURL="thumbs/IMG_20140721_095938.jpg"
+	linkURL="images/IMG_20140721_095938.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140721_100430.jpg"
+	thumbURL="thumbs/IMG_20140721_100430.jpg"
+	linkURL="images/IMG_20140721_100430.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140721_100458.jpg"
+	thumbURL="thumbs/IMG_20140721_100458.jpg"
+	linkURL="images/IMG_20140721_100458.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140721_101600.jpg"
+	thumbURL="thumbs/IMG_20140721_101600.jpg"
+	linkURL="images/IMG_20140721_101600.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140721_105435.jpg"
+	thumbURL="thumbs/IMG_20140721_105435.jpg"
+	linkURL="images/IMG_20140721_105435.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140721_111432.jpg"
+	thumbURL="thumbs/IMG_20140721_111432.jpg"
+	linkURL="images/IMG_20140721_111432.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140721_112048.jpg"
+	thumbURL="thumbs/IMG_20140721_112048.jpg"
+	linkURL="images/IMG_20140721_112048.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140721_112107.jpg"
+	thumbURL="thumbs/IMG_20140721_112107.jpg"
+	linkURL="images/IMG_20140721_112107.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140721_112116.jpg"
+	thumbURL="thumbs/IMG_20140721_112116.jpg"
+	linkURL="images/IMG_20140721_112116.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140721_115301.jpg"
+	thumbURL="thumbs/IMG_20140721_115301.jpg"
+	linkURL="images/IMG_20140721_115301.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20140721_120816.jpg"
+	thumbURL="thumbs/IMG_20140721_120816.jpg"
+	linkURL="images/IMG_20140721_120816.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

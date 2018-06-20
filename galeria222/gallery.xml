@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	resizeOnImport="false"
+	useFlickr="false"
+	cropToFit="false"
+	backgroundColor="CCFFFF"
+	title="Wizyta Słonia Elmera"
+	frameWidth="1"
+	textColor="000000"
+
+>
+  <image imageURL="images/14589615_313586382347862_4870218554851901969_o.jpg"
+	thumbURL="thumbs/14589615_313586382347862_4870218554851901969_o.jpg"
+	linkURL="images/14589615_313586382347862_4870218554851901969_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/14612403_313587712347729_4741972906857492067_o.jpg"
+	thumbURL="thumbs/14612403_313587712347729_4741972906857492067_o.jpg"
+	linkURL="images/14612403_313587712347729_4741972906857492067_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/14707860_313584685681365_1050155168814333961_o.jpg"
+	thumbURL="thumbs/14707860_313584685681365_1050155168814333961_o.jpg"
+	linkURL="images/14707860_313584685681365_1050155168814333961_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/14708009_313583942348106_9210889926125998880_o.jpg"
+	thumbURL="thumbs/14708009_313583942348106_9210889926125998880_o.jpg"
+	linkURL="images/14708009_313583942348106_9210889926125998880_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/14711658_313584249014742_7133716705069200136_o.jpg"
+	thumbURL="thumbs/14711658_313584249014742_7133716705069200136_o.jpg"
+	linkURL="images/14711658_313584249014742_7133716705069200136_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/14715022_313586249014542_6505917328972194764_o.jpg"
+	thumbURL="thumbs/14715022_313586249014542_6505917328972194764_o.jpg"
+	linkURL="images/14715022_313586249014542_6505917328972194764_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/14715094_313586219014545_5197576180296108145_o.jpg"
+	thumbURL="thumbs/14715094_313586219014545_5197576180296108145_o.jpg"
+	linkURL="images/14715094_313586219014545_5197576180296108145_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

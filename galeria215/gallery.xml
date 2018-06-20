@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	resizeOnImport="false"
+	useFlickr="false"
+	cropToFit="false"
+	backgroundColor="CCFFFF"
+	title="Dotyk Dźwięków"
+	frameWidth="1"
+	textColor="000000"
+
+>
+  <image imageURL="images/04.jpg"
+	thumbURL="thumbs/04.jpg"
+	linkURL="images/04.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/05.jpg"
+	thumbURL="thumbs/05.jpg"
+	linkURL="images/05.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/01.jpg"
+	thumbURL="thumbs/01.jpg"
+	linkURL="images/01.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/02.jpg"
+	thumbURL="thumbs/02.jpg"
+	linkURL="images/02.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/03.jpg"
+	thumbURL="thumbs/03.jpg"
+	linkURL="images/03.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2016-10-02 _ 19_10_14 - 09.jpg"
+	thumbURL="thumbs/2016-10-02 _ 19_10_14 - 09.jpg"
+	linkURL="images/2016-10-02 _ 19_10_14 - 09.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2016-10-02 _ 19_10_20 - 08.jpg"
+	thumbURL="thumbs/2016-10-02 _ 19_10_20 - 08.jpg"
+	linkURL="images/2016-10-02 _ 19_10_20 - 08.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2016-10-02 _ 19_10_25 - 07.jpg"
+	thumbURL="thumbs/2016-10-02 _ 19_10_25 - 07.jpg"
+	linkURL="images/2016-10-02 _ 19_10_25 - 07.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2016-10-02 _ 19_10_30 - 06.jpg"
+	thumbURL="thumbs/2016-10-02 _ 19_10_30 - 06.jpg"
+	linkURL="images/2016-10-02 _ 19_10_30 - 06.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2016-10-23 _ 19_28_43 - 04.jpg"
+	thumbURL="thumbs/2016-10-23 _ 19_28_43 - 04.jpg"
+	linkURL="images/2016-10-23 _ 19_28_43 - 04.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2016-10-23 _ 19_29_02 - 02.jpg"
+	thumbURL="thumbs/2016-10-23 _ 19_29_02 - 02.jpg"
+	linkURL="images/2016-10-23 _ 19_29_02 - 02.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2016-10-23 _ 19_29_13 - 05.jpg"
+	thumbURL="thumbs/2016-10-23 _ 19_29_13 - 05.jpg"
+	linkURL="images/2016-10-23 _ 19_29_13 - 05.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2016-10-23 _ 19_29_26 - 01.jpg"
+	thumbURL="thumbs/2016-10-23 _ 19_29_26 - 01.jpg"
+	linkURL="images/2016-10-23 _ 19_29_26 - 01.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2016-10-23 _ 19_29_39 - 03.jpg"
+	thumbURL="thumbs/2016-10-23 _ 19_29_39 - 03.jpg"
+	linkURL="images/2016-10-23 _ 19_29_39 - 03.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2016-10-02 _ 19_10_03 - 11.jpg"
+	thumbURL="thumbs/2016-10-02 _ 19_10_03 - 11.jpg"
+	linkURL="images/2016-10-02 _ 19_10_03 - 11.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2016-10-02 _ 19_10_08 - 10.jpg"
+	thumbURL="thumbs/2016-10-02 _ 19_10_08 - 10.jpg"
+	linkURL="images/2016-10-02 _ 19_10_08 - 10.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/14889954_326818747691292_3079923573489433700_o.jpg"
+	thumbURL="thumbs/14889954_326818747691292_3079923573489433700_o.jpg"
+	linkURL="images/14889954_326818747691292_3079923573489433700_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/14918808_324285837944583_3110762568226691565_o.jpg"
+	thumbURL="thumbs/14918808_324285837944583_3110762568226691565_o.jpg"
+	linkURL="images/14918808_324285837944583_3110762568226691565_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

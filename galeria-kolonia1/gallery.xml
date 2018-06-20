@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	maxImageWidth="1280"
+	maxImageHeight="1280"
+	imageQuality="80"
+	thumbWidth="75"
+	thumbHeight="75"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	backgroundColor="CCFFFF"
+	title="Półkolonia cz. I"
+	frameWidth="1"
+	galleryHeight="100%"
+
+>
+  <image imageURL="images/IMG_5580.JPG"
+	thumbURL="thumbs/IMG_5580.JPG"
+	linkURL="images/IMG_5580.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5593.JPG"
+	thumbURL="thumbs/IMG_5593.JPG"
+	linkURL="images/IMG_5593.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5597.JPG"
+	thumbURL="thumbs/IMG_5597.JPG"
+	linkURL="images/IMG_5597.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5601.JPG"
+	thumbURL="thumbs/IMG_5601.JPG"
+	linkURL="images/IMG_5601.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5602.JPG"
+	thumbURL="thumbs/IMG_5602.JPG"
+	linkURL="images/IMG_5602.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5610.JPG"
+	thumbURL="thumbs/IMG_5610.JPG"
+	linkURL="images/IMG_5610.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5615.JPG"
+	thumbURL="thumbs/IMG_5615.JPG"
+	linkURL="images/IMG_5615.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5616.JPG"
+	thumbURL="thumbs/IMG_5616.JPG"
+	linkURL="images/IMG_5616.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5618.JPG"
+	thumbURL="thumbs/IMG_5618.JPG"
+	linkURL="images/IMG_5618.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5620.JPG"
+	thumbURL="thumbs/IMG_5620.JPG"
+	linkURL="images/IMG_5620.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5621.JPG"
+	thumbURL="thumbs/IMG_5621.JPG"
+	linkURL="images/IMG_5621.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5628.JPG"
+	thumbURL="thumbs/IMG_5628.JPG"
+	linkURL="images/IMG_5628.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5629.JPG"
+	thumbURL="thumbs/IMG_5629.JPG"
+	linkURL="images/IMG_5629.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5634.JPG"
+	thumbURL="thumbs/IMG_5634.JPG"
+	linkURL="images/IMG_5634.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5635.JPG"
+	thumbURL="thumbs/IMG_5635.JPG"
+	linkURL="images/IMG_5635.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5649.JPG"
+	thumbURL="thumbs/IMG_5649.JPG"
+	linkURL="images/IMG_5649.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5652.JPG"
+	thumbURL="thumbs/IMG_5652.JPG"
+	linkURL="images/IMG_5652.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5656.JPG"
+	thumbURL="thumbs/IMG_5656.JPG"
+	linkURL="images/IMG_5656.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5660.JPG"
+	thumbURL="thumbs/IMG_5660.JPG"
+	linkURL="images/IMG_5660.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5661.JPG"
+	thumbURL="thumbs/IMG_5661.JPG"
+	linkURL="images/IMG_5661.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5662.JPG"
+	thumbURL="thumbs/IMG_5662.JPG"
+	linkURL="images/IMG_5662.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5666.JPG"
+	thumbURL="thumbs/IMG_5666.JPG"
+	linkURL="images/IMG_5666.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5669.JPG"
+	thumbURL="thumbs/IMG_5669.JPG"
+	linkURL="images/IMG_5669.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5674.JPG"
+	thumbURL="thumbs/IMG_5674.JPG"
+	linkURL="images/IMG_5674.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5675.JPG"
+	thumbURL="thumbs/IMG_5675.JPG"
+	linkURL="images/IMG_5675.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5676.JPG"
+	thumbURL="thumbs/IMG_5676.JPG"
+	linkURL="images/IMG_5676.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5679.JPG"
+	thumbURL="thumbs/IMG_5679.JPG"
+	linkURL="images/IMG_5679.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5682.JPG"
+	thumbURL="thumbs/IMG_5682.JPG"
+	linkURL="images/IMG_5682.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5685.JPG"
+	thumbURL="thumbs/IMG_5685.JPG"
+	linkURL="images/IMG_5685.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5687.JPG"
+	thumbURL="thumbs/IMG_5687.JPG"
+	linkURL="images/IMG_5687.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5692.JPG"
+	thumbURL="thumbs/IMG_5692.JPG"
+	linkURL="images/IMG_5692.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5694.JPG"
+	thumbURL="thumbs/IMG_5694.JPG"
+	linkURL="images/IMG_5694.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5695.JPG"
+	thumbURL="thumbs/IMG_5695.JPG"
+	linkURL="images/IMG_5695.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5701.JPG"
+	thumbURL="thumbs/IMG_5701.JPG"
+	linkURL="images/IMG_5701.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5704.JPG"
+	thumbURL="thumbs/IMG_5704.JPG"
+	linkURL="images/IMG_5704.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5705.JPG"
+	thumbURL="thumbs/IMG_5705.JPG"
+	linkURL="images/IMG_5705.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5706.JPG"
+	thumbURL="thumbs/IMG_5706.JPG"
+	linkURL="images/IMG_5706.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5707.JPG"
+	thumbURL="thumbs/IMG_5707.JPG"
+	linkURL="images/IMG_5707.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5708.JPG"
+	thumbURL="thumbs/IMG_5708.JPG"
+	linkURL="images/IMG_5708.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5710.JPG"
+	thumbURL="thumbs/IMG_5710.JPG"
+	linkURL="images/IMG_5710.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5711.JPG"
+	thumbURL="thumbs/IMG_5711.JPG"
+	linkURL="images/IMG_5711.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5715.JPG"
+	thumbURL="thumbs/IMG_5715.JPG"
+	linkURL="images/IMG_5715.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5717.JPG"
+	thumbURL="thumbs/IMG_5717.JPG"
+	linkURL="images/IMG_5717.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_5721.JPG"
+	thumbURL="thumbs/IMG_5721.JPG"
+	linkURL="images/IMG_5721.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>
